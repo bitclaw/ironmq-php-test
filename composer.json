@@ -1,0 +1,5 @@
+{
+    "require": {
+        "iron-io/iron_mq": "dev-master"
+    }
+}
